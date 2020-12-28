@@ -26,7 +26,7 @@ function UserProfile() {
                     <Text style={styles.count}> {storyCount} </Text>
                 </View>
                 <View style={{ flexDirection: 'row' }}>
-                    <Text style={styles.countText}>Likes </Text>
+                    <Text style={styles.countText}>Like </Text>
                     <Text style={styles.count}> {likeCount} </Text>
                 </View>
             </View>
