@@ -35,10 +35,7 @@ const styles = StyleSheet.create({
         alignItems:'center',
         padding: 10,
     },
-    title: {
-        fontSize: heightPercentageToDP('3%'),
-        fontFamily:'Lato-Bold'
-    },
+    
 })
 
 
